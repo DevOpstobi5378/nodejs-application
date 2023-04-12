@@ -5,6 +5,7 @@
   "main": "app.js",
   "publishConfig": {
     "registry": "http://172.31.7.40:8081/africaunited/repository/apple-bits-npm-repo/"
+    npm login --registry=NexusRepoURL
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
