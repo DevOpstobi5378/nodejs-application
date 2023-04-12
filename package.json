@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://54.183.155.55:8081/africaunited/repository/apple-bits-npm-repo/"
+    "registry": "http://172.31.7.40:8081/africaunited/repository/apple-bits-npm-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
