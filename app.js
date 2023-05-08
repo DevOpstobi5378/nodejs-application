@@ -21,9 +21,9 @@ console.log(__dirname+"/images/mylandmarklogo.png");
 */
 app.get('/landmarktechnologies', function(request, response) {
     //response.send("<h2><center>Welcome to Node JS app develpoed by MyLandmarkTech</h2>");
-    response.write("<h2><center><u>Node JS  Application </u></center></h2>");
+    response.write("<h2><center><u>LET LOVE LEAD</u></center></h2>");
 	
-    response.write("<h2><center>Welcome to  Landmark Technologies. Please Contact +14372152483 for more information or send an email to info@mylandmarktech.com <center></h2>" );
+    response.write("<h2><center>Welcome to AfroFutulTech Solution. Please Contact +notavailable for more information or send an email to dm me and I will send more info <center></h2>" );
     response.end();
     
   })
